@@ -1,13 +1,13 @@
 <h1>DIY electronics</h1>  <!-- заголовок -->
 
-[![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/diy_electron1cs)  <!-- ТГК -->
+[![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/DEtechnology)  <!-- ТГК -->
 
 <p>электроника • IT • WEB-разработка • 3D печать • ЧПУ • САПР</p>
 <p>C/C++ • Java • Processing • HTML • CSS • JavaScript</p>
 
 <h2>⚙ Соцсети:</h2>  <!-- основное -->
 <ul>
-  <li>ТГК: <a href="https://t.me/diy_electron1cs">DIY электроника</a> [Telegram]</li>  <!-- ТГК -->
+  <li>ТГК: <a href="https://t.me/DEtechnology">DIY электроника</a> [Telegram]</li>  <!-- ТГК -->
   <li>Обновления библиотек: <a href="https://t.me/de_libs">DE libs</a> [Telegram]</li>  <!-- ТГК -->
   <li>Дзен: <a href="https://dzen.ru/diyele">DIY электроника</a> [Дзен]</li>  <!-- Дзен -->
   <li>ВК: <a href="https://vk.com/de_community_vk">DE | электроника</a> [VK сообщество]</li>  <!-- ВК -->
