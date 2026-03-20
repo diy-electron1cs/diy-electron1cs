@@ -1,9 +1,8 @@
 <h1>DIY electronics</h1>  <!-- заголовок -->
 
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/DEtechnology)  <!-- ТГК -->
-
-<p>электроника • IT • WEB-разработка • 3D печать • ЧПУ • САПР</p>
-<p>C/C++ • Java • Processing • HTML • CSS • JavaScript</p>
+<p><b>Doctor ЁУ!</b></p>
+<p>электронщик • музыкант • IT-любитель • 3D печатник • ЧПУ-электродичь • техноблогер</p>
 
 <h2>⚙ Соцсети:</h2>  <!-- основное -->
 <ul>
