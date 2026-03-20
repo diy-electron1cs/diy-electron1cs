@@ -1,4 +1,4 @@
-<h1>DIY electronics</h1>  <!-- заголовок -->
+<h1>DE technology</h1>  <!-- заголовок -->
 
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/DEtechnology)  <!-- ТГК -->
 <p><b>Doctor ЁУ!</b></p>
