@@ -6,11 +6,11 @@
 
 <h2>⚙ Соцсети:</h2>  <!-- основное -->
 <ul>
-  <li>ТГК: <a href="https://t.me/DEtechnology">DIY электроника</a> [Telegram]</li>  <!-- ТГК -->
+  <li>ТГК: <a href="https://t.me/DEtechnology">DE technology</a> [Telegram]</li>  <!-- ТГК -->
   <li>Обновления библиотек: <a href="https://t.me/de_libs">DE libs</a> [Telegram]</li>  <!-- ТГК -->
-  <li>Дзен: <a href="https://dzen.ru/diyele">DIY электроника</a> [Дзен]</li>  <!-- Дзен -->
+  <li>Дзен: <a href="https://dzen.ru/diyele">DE | электроника</a> [Дзен]</li>  <!-- Дзен -->
   <li>ВК: <a href="https://vk.com/de_community_vk">DE | электроника</a> [VK сообщество]</li>  <!-- ВК -->
-  <li>Rutube: <a href="https://rutube.ru/channel/46650767">DIY электроника</a> [Rutube]</li>  <!-- Rutube -->
+  <li>Rutube: <a href="https://rutube.ru/channel/46650767">DE | электроника</a> [Rutube]</li>  <!-- Rutube -->
   <li>YouTube: <a href="https://youtube.com/@diy_electron1cs?si=8RdZAIb4lo1jFYi3">DE</a> [YouTube]</li>  <!-- YouTube -->
 </ul>
 
